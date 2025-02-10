@@ -75,9 +75,4 @@ Ambos devem retornar a mensagem `API está saudável!`.
 ## 🎯 Objetivo do Projeto
 Este projeto demonstra como utilizar **Eureka Server** para **Service Discovery**, permitindo que o **Spring Cloud Gateway** roteie requisições dinamicamente, sem necessidade de configuração manual de endpoints.
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir e utilizar!
-
----
-✍️ Criado por [Seu Nome](https://github.com/seu-usuario). Contribuições são bem-vindas! 🚀
 
