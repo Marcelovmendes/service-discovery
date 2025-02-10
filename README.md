@@ -2,7 +2,7 @@
 
 Este repositório contém um exemplo prático de implementação de **Service Discovery** utilizando **Eureka Server** e **Spring Cloud Gateway** para roteamento dinâmico de microsserviços.
 
-Artigo mais detalhado sobre o projeto [aqui](https://sdkman.io/usage/)
+Artigo mais detalhado sobre o projeto [aqui](https://dev.to/marcelovmendes/criando-service-discovery-com-spring-cloud-gateway-e-eureka-158h)
 ## 🛠 Tecnologias Utilizadas
 - Java 21
 - Spring Boot
